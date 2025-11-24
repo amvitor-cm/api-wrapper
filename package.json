@@ -8,6 +8,6 @@
     "test": "node examples/usage.js"
   },
   "keywords": ["api", "wrapper", "client"],
-  "author": "Your Name",
+  "author": "amvitor-cm",
   "license": "MIT"
 }
