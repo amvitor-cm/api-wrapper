@@ -12,9 +12,9 @@ api-wrapper/
 
 **README.md**
 ```markdown
-# API Wrapper for [INSERT API NAME]
+# API Wrapper that you can adapt for any REST API
 
-A robust, reusable JavaScript client for interacting with any REST API. This wrapper provides a clean, promise-based interface with built-in error handling, request caching, and input validation.
+A robust, reusable JavaScript client that you can adapt for any REST API with any REST API. This wrapper provides a clean, promise-based interface with built-in error handling, request caching, and input validation.
 
 ## Features
 
