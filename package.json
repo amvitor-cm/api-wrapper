@@ -1,13 +1,13 @@
 {
-  "name": "api-wrapper",
+  "name": "generic-api-wrapper",
   "version": "1.0.0",
-  "description": "A reusable API wrapper you can adapt for any REST API",
+  "description": "A reusable, configurable API wrapper template for any REST API",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "node examples/usage.js"
   },
-  "keywords": ["api", "wrapper", "client"],
+  "keywords": ["api", "wrapper", "rest-api", "http-client", "javascript"],
   "author": "amvitor-cm",
-  "license": "MIT" 
+  "license": "MIT"
 }
